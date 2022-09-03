@@ -1,4 +1,4 @@
-public class Play{
+public class Main{
     public static void main(String[] args){
         Animal doggy = new Dogs();
         Animal mithu = new Bird();
